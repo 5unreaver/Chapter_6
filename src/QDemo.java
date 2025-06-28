@@ -2,7 +2,7 @@
 Демонстрация использования класса Queue */
 
 // демонстрация использования класса Queue
-public class QDemo {
+class QDemo {
     public static void main(String[] args) {
         Queue test = new Queue(10);
         // test.q = 99; // Ошибка!
